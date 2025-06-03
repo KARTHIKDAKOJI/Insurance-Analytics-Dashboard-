@@ -20,11 +20,11 @@ Raw data initially loaded into MS SQL Server for error detection and datatype co
 
 Further cleaning in Power BI Power Query:
 
-# 🔍Removed 4 duplicate rows (from 10,004 to 10,000 rows).
+ 🔍Removed 4 duplicate rows (from 10,004 to 10,000 rows).
 
-# 🛠️Handled nulls, fixed errors, and corrected data types.
+ 🛠️Handled nulls, fixed errors, and corrected data types.
 
-# ➕Added 2 new columns for better analysis.
+ ➕Added 2 new columns for better analysis.
 
 # 🎯Main KPIs
 Premium Amount
@@ -45,33 +45,33 @@ Policy Number
 # 📈Key Visualizations & Insights
 Claim Status Distribution
 
-# 🍩Donut pie chart showing 43.54% claims rejected; remainder settled or pending.
+ 🍩Donut pie chart showing 43.54% claims rejected; remainder settled or pending.
 
 Premium Amount by Policy Type
 
-# 📊Bar chart shows highest premiums from Travel Insurance (~₹2.5M), followed by Health Insurance.
+ 📊Bar chart shows highest premiums from Travel Insurance (~₹2.5M), followed by Health Insurance.
 
 Age Group vs Claim Amount
 
-# 👥Created Age Group column:
+ 👥Created Age Group column:
 
 Young (18–30), Middle-aged (31–50), Senior (51–70), Elderly (71–90)
 
-# 📉Line chart shows middle-aged group has highest claims (₹5.0M), followed by seniors (₹4.8M).
+ 📉Line chart shows middle-aged group has highest claims (₹5.0M), followed by seniors (₹4.8M).
 
 Policy Activity Status
 
-# ⏳Based on policy dates as of 20-12-2024:
+ ⏳Based on policy dates as of 20-12-2024:
 
-# 🟢55.47% active, 🔴 44.53% inactive (pie chart).
+ 🟢55.47% active, 🔴 44.53% inactive (pie chart).
 
 Gender Distribution
 
-# 👩‍🦰👨Double row card shows equal split: 5,000 females and 5,000 males.
+ 👩‍🦰👨Double row card shows equal split: 5,000 females and 5,000 males.
 
 Policy Type vs Claim Status (Matrix Table)
 
-# 📋Matrix compares rejected, settled, and pending claims:
+ 📋Matrix compares rejected, settled, and pending claims:
 
 ❌ Most rejections & pendings: Travel Insurance
 
