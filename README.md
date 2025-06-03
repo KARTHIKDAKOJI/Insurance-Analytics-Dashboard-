@@ -85,4 +85,4 @@ MS SQL Server – data cleaning & preprocessing
 Power BI – data modeling & visualization
 
 # 🎯Purpose
-Transform raw insurance data into actionable insights to support strategic decision-making and reveal key business trends.
+The primary objective of this project is to transform raw insurance data into clear, actionable insights that empower stakeholders to make data-driven decisions. By analyzing premiums, claims, and policy statuses, the project helps identify trends, detect inefficiencies, and highlight opportunities for improving customer service and operational effectiveness. This detailed analysis supports strategic planning, risk management, and enhances the overall understanding of insurance business dynamics, ultimately contributing to better policy management and increased profitability
